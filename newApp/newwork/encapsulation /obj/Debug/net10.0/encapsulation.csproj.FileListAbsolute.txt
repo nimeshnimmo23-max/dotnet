@@ -1,0 +1,4 @@
+/Users/nimeshkumarniranjan/newApp/newwork/encapsulation /obj/Debug/net10.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimeshkumarniranjan/newApp/newwork/encapsulation /obj/Debug/net10.0/encapsulation.AssemblyInfoInputs.cache
+/Users/nimeshkumarniranjan/newApp/newwork/encapsulation /obj/Debug/net10.0/encapsulation.AssemblyInfo.cs
+/Users/nimeshkumarniranjan/newApp/newwork/encapsulation /obj/Debug/net10.0/encapsulation.csproj.CoreCompileInputs.cache

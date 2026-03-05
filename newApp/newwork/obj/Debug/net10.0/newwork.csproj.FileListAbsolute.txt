@@ -1,0 +1,14 @@
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.AssemblyInfoInputs.cache
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.AssemblyInfo.cs
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.csproj.CoreCompileInputs.cache
+/Users/nimeshkumarniranjan/newApp/newwork/bin/Debug/net10.0/newwork
+/Users/nimeshkumarniranjan/newApp/newwork/bin/Debug/net10.0/newwork.deps.json
+/Users/nimeshkumarniranjan/newApp/newwork/bin/Debug/net10.0/newwork.runtimeconfig.json
+/Users/nimeshkumarniranjan/newApp/newwork/bin/Debug/net10.0/newwork.dll
+/Users/nimeshkumarniranjan/newApp/newwork/bin/Debug/net10.0/newwork.pdb
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.dll
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/refint/newwork.dll
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.pdb
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/newwork.genruntimeconfig.cache
+/Users/nimeshkumarniranjan/newApp/newwork/obj/Debug/net10.0/ref/newwork.dll
